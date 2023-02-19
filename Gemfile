@@ -1,7 +1,9 @@
-source 'http://rubygems.org'
+source "https://rubygems.org"
 
-gem 'rough'
-gem 'jekyll-paginate'
-gem 'jekyll-geo-pattern'
-gem 'kramdown'
-gem 'jekyll-github-metadata'
+# gem "rails"
+gem "jekyll"
+gem 'github-pages'
+
+# Windows does not include zoneinfo files, so bundle the tzinfo-data gem
+# gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
+
