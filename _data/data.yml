@@ -77,9 +77,9 @@ education:
 skills:
     title: Skills 
     summary: |
-      CI/CD GCP Terraform Kubernetes Docker Jenkins CircleCi Bash git Linux Ansible
-      GCE GKE 
-      Scrum Kanban Nexus SonarQube Prometheus 
+      CI/CD, GCP, Terraform, Kubernetes, Docker, Jenkins, CircleCi, Bash, git, Linux, Ansible
+      GCE, GKE, Snyk, 
+      Scrum, Kanban, Nexus, SonarQube, Prometheus, AWS
 
 
 experiences:
