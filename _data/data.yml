@@ -27,7 +27,7 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: 
+    pdf: /assets/ValeriiVlasovResume.pdf
 
     languages:
       title: Languages
@@ -77,7 +77,10 @@ education:
 skills:
     title: Skills 
     summary: |
-      CI/CD, GCO, DOCKER, K8s(Kubernetes), Jenkins, Git, Github, AWS
+      CI/CD GCP Terraform Kubernetes Docker Jenkins CircleCi Bash git Linux Ansible
+      GCE GKE 
+      Scrum Kanban Nexus SonarQube Prometheus 
+
 
 experiences:
     title: Experiences
