@@ -7,215 +7,175 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Valerii Vlasov
+    tagline: Senior Devops Engineer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    timezone: America/Cancun Timezone
+    email: Kifocheg@gmail.com
+    phone: +380678398825
+    timezone: Ukraine/Kyiv Timezone
     citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
-    telegram: # add your nickname without '@' sign
+    website: kifok.github.io #do not add http://
+    linkedin: valerii-vlasov-30b621198
+    xing: 
+    github: Kifok
+    telegram: Kfiok # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: 
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    pdf: 
 
     languages:
       title: Languages
       info:
         - idiom: English
+          level: B1
+
+        - idiom: Ukrainian
           level: Native
 
-        - idiom: French
-          level: Professional
-
-        - idiom: Spanish
-          level: Professional
+        - idiom: Russian
+          level: Native
 
     interests:
       title: Interests
       info:
-        - item: Climbing
+        - item: Write Music
           link:
 
-        - item: Snowboarding
+        - item: Airsoft
           link:
 
-        - item: Cooking
+        - item: Bicycle
           link:
 
 career-profile:
-    title: Career Profile
+    title: About Me
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      I am a Senior DevOps Engineer with almost 5 years expirience in different kind of projects. 
+      I have carried out maintenance and develop CI\CD infrastructure, terraform code, Kubernetes cluster and etc.
+      I am open-minded, result-oriented, and self-motivated. I believe my experience helps me to create suitable infrastructure 
+      and automate routine tasks which will give the best possible result for the project.
+
+
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+      - degree: Master deegree of IoT systems and microservices
+        university: Kharkiv Aerospace University
+        time: 2017 - 2018
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
+      - degree: Bachelor deegree of Compute Engineering
+        university: Kryvij Rih National University
+        time: 2013-2017
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+
+skills:
+    title: Skills 
+    summary: |
+      CI/CD, GCO, DOCKER, K8s(Kubernetes), Jenkins, Git, Github, AWS
+
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Senior DevOps Engineer
+        time: 2021 - Present
+        company: SoftServe, Ukraine
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+          Worked on 3 different projects.
+          Participated in various activities as a member of the CloudOps team, such as strategic
+          infrastructure/automation development, support of incoming requests from developers,
+          support of the Data department, and various infrastructure improvements and
+          automation.
+          Contributed to architecture and design.
+          Conducted requirements analysis and clarification.
+          Estimated, prioritized, and distributed tasks.
+          Developed code.
+          Built and deployed development scripts.
+      - role: Devops Engineer
+        time: 2019 - 2021
+        company: EPAM
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          Worked on 4 different projects.
+          Was responsible for CI/CD pipelines, knowledge sharing, coaching, estimation,
+          prioritization, and distribution of tasks, code development, product support, and
+          documentation maintenance
+
 projects:
     title: Projects
     intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      This is the list of projects which I have worked on. Titles are hidden according NDA
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Store controller 
+        tagline: "Our team developed application for controller device in shops "
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: Online shop application 
+        tagline: "Our team developed BIG data application for online shop "
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: Real estate franchise 
+        tagline: "Online international real estate franchise. Registered users can read and buy some estate, but unregistered users can only read description of it. Users access service through the website interface or mobile device app. "
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      - title: Robo security system 
+        tagline: "Our team developed robot for security of some individual space. Customers need to monitor his security space with full remote camera that can move in space."
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: Develop and support CI/CD agrigator 
+        tagline: "Develop CI/CD agrigator for easy setup all in one click for DevOps side. "
 
-oss:
-    title: OSS Contributions
-    intro: >
-      You can list your open source software contributions in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    contributions:
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: HealthCare project 
+        tagline: "Develop application for audit and log of pharmaceutical company. Team develop mobile application for best audit of pharmaceutical medicine and tests. User need to log in into application and app will show to him all necessary audit from his cabinet."
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      - title: Security tests of custodian 
+        tagline: "As devops team we develop security testing of our GCP cloud with using cloud custodian tool which we customize for testing. "
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+# oss:
+#     title: OSS Contributions
+#     intro: >
+#       You can list your open source software contributions in this
+#       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+#       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+#     contributions:
+#       - title: Tempo
+#         link: "#"
+#         tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+
+#       - title: Atom
+#         link: "#"
+#         tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+
+#       - title: Delta
+#         link: "#"
+#         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
     title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: The autonomous system of monitoring and control for technical objects using the wireless sensor networks
+        link: "https://repo.btu.kharkov.ua/handle/123456789/15600"
+        authors: Vlasov V., Kryvulya G.
+        conference: Вісник Харків. нац. техн. ун-т сіл. госп-ва ім. П. Василенка;№ 187.
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+#     toolset:
+#       - name: CI/CD
+#         level: 98%
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+#       - name: Jenkins
+#         level: 98%
 
-skills:
-    title: Skills &amp; Proficiency
+#       - name: GCP
+#         level: 98%
 
-    toolset:
-      - name: Python & Django
-        level: 98%
+#       - name: HTML5 & CSS
+#         level: 95%
 
-      - name: Javascript & jQuery
-        level: 98%
+#       - name: Ruby on Rails
+#         level: 85%
 
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
+#       - name: Sketch & Photoshop
+#         level: 60%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
