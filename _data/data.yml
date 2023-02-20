@@ -17,7 +17,7 @@ sidebar:
     timezone: Ukraine/Kyiv Timezone
     citizenship:
     website: kifok.github.io #do not add http://
-    linkedin: valerii-vlasov-30b621198
+    linkedin: valerii-vlasov
     xing: 
     github: Kifok
     telegram: Kfiok # add your nickname without '@' sign
@@ -56,11 +56,13 @@ sidebar:
 career-profile:
     title: About Me
     summary: |
-      I am a Senior DevOps Engineer with almost 5 years expirience in different kind of projects. 
-      I have carried out maintenance and develop CI\CD infrastructure, terraform code, Kubernetes cluster and etc.
-      I am open-minded, result-oriented, and self-motivated. I believe my experience helps me to create suitable infrastructure 
-      and automate routine tasks which will give the best possible result for the project.
-
+      I am a Senior DevOps Engineer with nearly 5 years of experience
+      in designing, implementing, and maintaining CI/CD infrastructure, Terraform code, Kubernetes cluster,
+      and other DevOps tools, I am seeking a challenging role in a dynamic and fast-paced environment.
+      My objective is to utilize my technical expertise, problem-solving skills, 
+      and passion for automation to optimize and streamline the software development lifecycle,
+      enhance the efficiency and scalability of systems, and contribute to the growth and success of the organization.
+      I am committed to staying up-to-date with the latest industry trends and best practices and continuously improving my skills to provide innovative and effective solutions to complex problems.
 
 education:
     title: Education
