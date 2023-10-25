@@ -92,8 +92,9 @@ experiences:
         company: Triangu, Ukraine
         details: |
           Worked on 2 different projects.
-          
-          
+          Contributed to architecture and design infrustucture for different types of projects.
+          Developed Terraform code and pipeline for it. Deployed better solution for projects like GKE autopilot.
+          Estimated, prioritized, and distributed tasks.
       - role: Senior DevOps Engineer
         time: 2021 - 2023
         company: SoftServe, Ukraine
