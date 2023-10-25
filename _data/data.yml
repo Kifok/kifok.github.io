@@ -80,7 +80,7 @@ skills:
     title: Skills 
     summary: |
       CI/CD, GCP, Terraform, Kubernetes, Docker, Jenkins, CircleCi, Bash, git, Linux, Ansible
-      GCE, GKE, Snyk, 
+      GCE, GKE, Snyk, Gitlab-CI, Terraform Cloud.
       Scrum, Kanban, Nexus, SonarQube, Prometheus, AWS
 
 
@@ -88,10 +88,17 @@ experiences:
     title: Experiences
     info:
       - role: Senior DevOps Engineer
-        time: 2021 - Present
+        time: 2023 - Present
+        company: Triangu, Ukraine
+        details: |
+          Worked on 2 different projects.
+          
+          
+      - role: Senior DevOps Engineer
+        time: 2021 - 2023
         company: SoftServe, Ukraine
         details: |
-          Worked on 3 different projects.
+          Worked on 4 different projects.
           Participated in various activities as a member of the CloudOps team, such as strategic
           infrastructure/automation development, support of incoming requests from developers,
           support of the Data department, and various infrastructure improvements and
@@ -115,6 +122,15 @@ projects:
     intro: >
       This is the list of projects which I have worked on. Titles are hidden according NDA
     assignments:
+      - title: GameDev
+        tagline: "Developed autoscailed k8s cluster, writing helm charts"
+        
+      - title: Music application 
+        tagline: "Developed terraform code and pipeline on gitlab-ci for running terraform code. Deployed multiworkspace infrastructure"
+        
+      - title: Oneclick deployment
+        tagline: "Developed pipeline on Cloud Build which deploy new infrustucture with all application dependencies by one click"
+        
       - title: Store controller 
         tagline: "Our team developed application for controller device in shops "
 
