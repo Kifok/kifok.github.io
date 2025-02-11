@@ -123,6 +123,12 @@ projects:
     intro: >
       This is the list of projects which I have worked on. Titles are hidden according NDA
     assignments:
+      - title: Delivery company.
+        tagline: "Refactor terraform code, deploy tesla telemetry platform, write solutions for it"
+        
+      - title: CryptoProject
+        tagline: "Developed GitOPS solution on ArgoCD, writing helm charts"
+    
       - title: GameDev
         tagline: "Developed autoscailed k8s cluster, writing helm charts"
         
