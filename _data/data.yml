@@ -33,7 +33,7 @@ sidebar:
       title: Languages
       info:
         - idiom: English
-          level: B1
+          level: B1+
 
         - idiom: Ukrainian
           level: Native
@@ -79,8 +79,8 @@ education:
 skills:
     title: Skills 
     summary: |
-      CI/CD, GCP, Terraform, Kubernetes, Docker, Jenkins, CircleCi, Bash, git, Linux, Ansible
-      GCE, GKE, Snyk, Gitlab-CI, Terraform Cloud.
+      CI/CD, GCP, ArgoCD, GitOps, Terraform, Kubernetes, Docker, Jenkins, CircleCi, Bash, git, Linux, Ansible
+      GCE, GKE, Snyk, Gitlab-CI, Terraform Cloud, OpenSearch, Logstash, Gitlab, Gitlab CI
       Scrum, Kanban, Nexus, SonarQube, Prometheus, AWS
 
 
